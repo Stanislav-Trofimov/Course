@@ -1,0 +1,1952 @@
+[
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Airbag...",
+    "Id": "5205322a-eec6-41b4-9063-c16a7d405352",
+    "Name": "Airbag",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Paranoid Android...",
+    "Id": "399496ca-ffdb-469e-b4d2-b7f6a7029d7d",
+    "Name": "Paranoid Android",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Subterranean Homesick Alien...",
+    "Id": "8eac4677-0c98-49f4-8b70-2f400f06a3e1",
+    "Name": "Subterranean Homesick Alien",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Exit Music (For a Film)...",
+    "Id": "bc8940e6-8943-4e67-8473-cdf58bfb1508",
+    "Name": "Exit Music (For a Film)",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Let Down...",
+    "Id": "694b5599-f9e1-4679-b416-663798c3271b",
+    "Name": "Let Down",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Karma Police...",
+    "Id": "fabff328-95ec-4afb-8372-c121caeb1c6d",
+    "Name": "Karma Police",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Fitter Happier...",
+    "Id": "5f2cb79b-b834-459f-b50f-29c4a4b1575d",
+    "Name": "Fitter Happier",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Electioneering...",
+    "Id": "748663d2-7c56-419d-ab4a-ad6526b20f9a",
+    "Name": "Electioneering",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - Climbing Up the Walls...",
+    "Id": "70b4288e-bb51-46b0-bccd-8dd2c51b11d9",
+    "Name": "Climbing Up the Walls",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - OK Computer - No Surprises...",
+    "Id": "5b183121-c5ca-41cd-afb2-711f03157345",
+    "Name": "No Surprises",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - Everything in Its Right Place...",
+    "Id": "878fa04c-434f-4e1a-b858-28b00581e6b2",
+    "Name": "Everything in Its Right Place",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - Kid A...",
+    "Id": "3b1a07f0-2609-41af-80fc-c7efbecb41ee",
+    "Name": "Kid A",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - The National Anthem...",
+    "Id": "3977c84d-a2fa-4c8c-9107-1e195898ea84",
+    "Name": "The National Anthem",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - How to Disappear Completely...",
+    "Id": "57f4fa22-1f02-4332-ad1c-fc0d680629a9",
+    "Name": "How to Disappear Completely",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - Treefingers...",
+    "Id": "3316783c-21e7-4da7-971a-7d6518daf666",
+    "Name": "Treefingers",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - Optimistic...",
+    "Id": "7e2584bb-f17f-44e9-9641-ce1afdf4bc7d",
+    "Name": "Optimistic",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - In Limbo...",
+    "Id": "73b86e09-5bf9-4824-9b7e-46199dd3a2dc",
+    "Name": "In Limbo",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - Idioteque...",
+    "Id": "fe2db40b-133a-456d-a768-ca76b3e8864c",
+    "Name": "Idioteque",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - Morning Bell...",
+    "Id": "2318282d-7a08-4f86-8ce3-df61fcb1f026",
+    "Name": "Morning Bell",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Kid A - Motion Picture Soundtrack...",
+    "Id": "4b9e736f-4588-4343-b7e0-4e37ab57caef",
+    "Name": "Motion Picture Soundtrack",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - 15 Step...",
+    "Id": "86b25152-3627-4903-ad84-76914285d8c7",
+    "Name": "15 Step",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - Bodysnatchers...",
+    "Id": "9939a2dd-8c47-457b-8608-719e207779fc",
+    "Name": "Bodysnatchers",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - Nude...",
+    "Id": "4ce424dc-9b6b-43c2-8de1-a922ada6b83a",
+    "Name": "Nude",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - Weird Fishes/Arpeggi...",
+    "Id": "740d32fb-9276-4fae-8b5c-9220c4d666f0",
+    "Name": "Weird Fishes/Arpeggi",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - All I Need...",
+    "Id": "bf3beab2-2620-4a41-afb9-ecfb2864ac67",
+    "Name": "All I Need",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - Faust Arp...",
+    "Id": "6638db13-618e-4d6e-9d60-3ef103c8dbdc",
+    "Name": "Faust Arp",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - Reckoner...",
+    "Id": "cc7cbad8-cc51-4327-bff8-556cd5758a45",
+    "Name": "Reckoner",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - House of Cards...",
+    "Id": "6b40cda3-4a3d-4935-a6fe-a26f64769a7a",
+    "Name": "House of Cards",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - Jigsaw Falling into Place...",
+    "Id": "77e39be2-11b1-442e-9c83-0eb8b1575866",
+    "Name": "Jigsaw Falling into Place",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - In Rainbows - Videotape...",
+    "Id": "4d70f511-2865-4270-9590-c12f0ab8f9d7",
+    "Name": "Videotape",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Packt Like Sardines in a Crushd Tin Box...",
+    "Id": "a7e10959-2540-45f7-a392-edd125046054",
+    "Name": "Packt Like Sardines in a Crushd Tin Box",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Pyramid Song...",
+    "Id": "8151d7c9-ebb3-485a-a357-e98920d4ef55",
+    "Name": "Pyramid Song",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Pulk/Pull Revolving Doors...",
+    "Id": "3b3acc6b-86f6-47db-9d24-05fba1d3110f",
+    "Name": "Pulk/Pull Revolving Doors",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - You and Whose Army?...",
+    "Id": "e1937ed2-1e3b-4982-a2b5-e2b95e04568c",
+    "Name": "You and Whose Army?",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - I Might Be Wrong...",
+    "Id": "27306884-9580-4b69-a39e-c86b15bc0d2a",
+    "Name": "I Might Be Wrong",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Knives Out...",
+    "Id": "f40cf418-4b1e-437f-a009-3c4a2e984cbc",
+    "Name": "Knives Out",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Morning Bell/Amnesiac...",
+    "Id": "2cf3c2d6-96aa-4906-adc2-a9e58bc001cc",
+    "Name": "Morning Bell/Amnesiac",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Dollars and Cents...",
+    "Id": "ccb424ee-6bc3-4eff-b722-589decdf4a6c",
+    "Name": "Dollars and Cents",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Hunting Bears...",
+    "Id": "cb05d239-a571-418f-a2d3-00c90564f2b6",
+    "Name": "Hunting Bears",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - Amnesiac - Like Spinning Plates...",
+    "Id": "9ce5140b-accd-4428-90d2-aa21c2578a98",
+    "Name": "Like Spinning Plates",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Burn the Witch...",
+    "Id": "4abfea36-554b-48d0-86a7-48d3d1e35511",
+    "Name": "Burn the Witch",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Daydreaming...",
+    "Id": "b559c4ea-3bfd-4151-b0a1-06e1c4d36090",
+    "Name": "Daydreaming",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Decks Dark...",
+    "Id": "2bbd373f-f909-4093-8f77-a0737f534fd3",
+    "Name": "Decks Dark",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Desert Island Disk...",
+    "Id": "235df742-dca3-43c3-990b-a170115e9c27",
+    "Name": "Desert Island Disk",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Ful Stop...",
+    "Id": "7e47d17e-4426-4873-b5af-6ba0904365e9",
+    "Name": "Ful Stop",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Glass Eyes...",
+    "Id": "a3063b3a-5ff2-450d-ae05-73a8cc738972",
+    "Name": "Glass Eyes",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Identikit...",
+    "Id": "d715b11e-ef80-4761-a623-95a6f9997aa9",
+    "Name": "Identikit",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - The Numbers...",
+    "Id": "93dc45af-b796-411e-a62a-ad79a5a6b95c",
+    "Name": "The Numbers",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - Present Tense...",
+    "Id": "9f1def18-df49-4270-ba8e-314d5e6901d1",
+    "Name": "Present Tense",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Artists": [
+      "Radiohead"
+    ],
+    "Lyrics": "Lyrics for Radiohead - A Moon Shaped Pool - True Love Waits...",
+    "Id": "532eae33-6fe4-4b71-a900-e0bc2b7d4fe5",
+    "Name": "True Love Waits",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Don't Panic...",
+    "Id": "e9d9a7cd-a552-4a4b-aef8-bc5073531a86",
+    "Name": "Don't Panic",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Shiver...",
+    "Id": "52d4bca6-61cb-4fc7-b221-00ca2d384816",
+    "Name": "Shiver",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Spies...",
+    "Id": "9d0ac09c-097e-42db-a627-2c0ae75961fa",
+    "Name": "Spies",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Sparks...",
+    "Id": "85cc7a6d-e6dd-4590-bc24-1d1a2dabf521",
+    "Name": "Sparks",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Yellow...",
+    "Id": "065fbd93-ff52-4b1f-9bde-4f668f763aff",
+    "Name": "Yellow",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Trouble...",
+    "Id": "866d7767-0e5e-4699-8db5-373485d59c80",
+    "Name": "Trouble",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Parachutes...",
+    "Id": "9676fe21-2742-40c5-b17e-57b30a3a094d",
+    "Name": "Parachutes",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - High Speed...",
+    "Id": "df8f848e-0b77-4b8a-873f-ea2aea3ed02c",
+    "Name": "High Speed",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - We Never Change...",
+    "Id": "89c94981-9009-46e1-b318-40838a96990f",
+    "Name": "We Never Change",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Parachutes - Everything's Not Lost...",
+    "Id": "8ef01e14-8808-4348-9ee2-4e2acfd9b17f",
+    "Name": "Everything's Not Lost",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - Politik...",
+    "Id": "cc2d5b19-c323-410e-81dd-ce311f3da25c",
+    "Name": "Politik",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - In My Place...",
+    "Id": "ad9f9232-3ee9-4c56-b176-47ee7e4ca23e",
+    "Name": "In My Place",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - God Put a Smile upon Your Face...",
+    "Id": "ad26dbd6-9979-47c1-b9ce-c30a08a6173e",
+    "Name": "God Put a Smile upon Your Face",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - The Scientist...",
+    "Id": "e72a0b8e-0ced-4136-9ab8-ce9b682534ec",
+    "Name": "The Scientist",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - Clocks...",
+    "Id": "b4281d01-37e5-48f2-9476-4d4a4118b13a",
+    "Name": "Clocks",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - Daylight...",
+    "Id": "065cf885-b4e9-4bfc-9370-568b6a389f4f",
+    "Name": "Daylight",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - Green Eyes...",
+    "Id": "83739e54-6472-4e1d-9d15-2ba06154b841",
+    "Name": "Green Eyes",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - Warning Sign...",
+    "Id": "ab55ce21-f29a-4a5c-86d3-9734adf053f0",
+    "Name": "Warning Sign",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - A Whisper...",
+    "Id": "200e235a-2282-4786-8772-e3225dbbdb13",
+    "Name": "A Whisper",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - A Rush of Blood to the Head - Amsterdam...",
+    "Id": "e447f59d-bea4-4a96-90d9-9ea9f87ee4ac",
+    "Name": "Amsterdam",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Life in Technicolor...",
+    "Id": "4f0660a7-6212-45fc-9380-d39a943ae512",
+    "Name": "Life in Technicolor",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Cemeteries of London...",
+    "Id": "93e805ee-21c3-4750-bcbf-69323a9514cb",
+    "Name": "Cemeteries of London",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Lost!...",
+    "Id": "56b27f9b-4845-4556-85e1-fbfb32bf29d6",
+    "Name": "Lost!",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - 42...",
+    "Id": "9bde3f52-d0e8-47f5-988b-77f7e3c6ce15",
+    "Name": "42",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Lovers in Japan...",
+    "Id": "b6e0c13f-e3c2-4e67-b934-503a21737de7",
+    "Name": "Lovers in Japan",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Yes...",
+    "Id": "f2366ae9-428f-4e79-94ed-ba6fb8fa5d7f",
+    "Name": "Yes",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Viva la Vida...",
+    "Id": "3c16ed68-5bc2-4880-a689-5f178983ff38",
+    "Name": "Viva la Vida",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Violet Hill...",
+    "Id": "261ba2f7-5c3e-4a61-9fa2-555f8823e6ff",
+    "Name": "Violet Hill",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Strawberry Swing...",
+    "Id": "cab7dfca-8e72-457d-a28b-028cb9b7649d",
+    "Name": "Strawberry Swing",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Viva la Vida - Death and All His Friends...",
+    "Id": "965b73ee-b232-4024-b9f1-9135b171548e",
+    "Name": "Death and All His Friends",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Mylo Xyloto...",
+    "Id": "3706dd5e-9adf-4de0-bf64-d0e11f1a816c",
+    "Name": "Mylo Xyloto",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Hurts Like Heaven...",
+    "Id": "a8ec5e17-b7b1-461d-a363-73ca4696352b",
+    "Name": "Hurts Like Heaven",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Paradise...",
+    "Id": "6a829c64-a362-481a-b2fc-b2ec6fa7efb9",
+    "Name": "Paradise",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Charlie Brown...",
+    "Id": "2f17c056-0548-4567-b35c-47d5e64a6893",
+    "Name": "Charlie Brown",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Us Against the World...",
+    "Id": "cfaa3e76-1bea-428c-8bc2-8285bfa86714",
+    "Name": "Us Against the World",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - M.M.I.X....",
+    "Id": "6aabc1b0-0410-4070-b18d-0b5cc635dcc7",
+    "Name": "M.M.I.X.",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Every Teardrop Is a Waterfall...",
+    "Id": "5e64795a-d8ae-4404-885b-69bba6340865",
+    "Name": "Every Teardrop Is a Waterfall",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Major Minus...",
+    "Id": "a53893aa-173d-489c-b110-4c5e46d18444",
+    "Name": "Major Minus",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - U.F.O....",
+    "Id": "a1f16d99-1b38-4816-9218-d5e124adc414",
+    "Name": "U.F.O.",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Mylo Xyloto - Up with the Birds...",
+    "Id": "42b75829-6caf-4c06-a6be-e90b3cb6cc5b",
+    "Name": "Up with the Birds",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - Always in My Head...",
+    "Id": "ab4e8ab7-dee5-423c-9473-39c172952d1f",
+    "Name": "Always in My Head",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - Magic...",
+    "Id": "96ebee98-8862-4ec5-b2c7-99d677ced12e",
+    "Name": "Magic",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - Ink...",
+    "Id": "31295172-8a38-4646-97de-36e91ede74c6",
+    "Name": "Ink",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - True Love...",
+    "Id": "88d20668-cf84-4837-a155-109e94a5a5bd",
+    "Name": "True Love",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - Midnight...",
+    "Id": "b06c4291-1aeb-4412-bfdf-bbb41cff9068",
+    "Name": "Midnight",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - Another's Arms...",
+    "Id": "0a1c0c90-5609-445e-8c9f-5b4998424aed",
+    "Name": "Another's Arms",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - Oceans...",
+    "Id": "39dacfb2-a9d0-4b6d-96c1-ac01bb1a6fd6",
+    "Name": "Oceans",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - A Sky Full of Stars...",
+    "Id": "c556e203-8e58-4abe-8ed1-acd4ae7d3d37",
+    "Name": "A Sky Full of Stars",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - O...",
+    "Id": "523ec29d-c62c-45bf-a4c4-d62d55a13522",
+    "Name": "O",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Pop"
+    ]
+  },
+  {
+    "AlbumId": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Artists": [
+      "Coldplay"
+    ],
+    "Lyrics": "Lyrics for Coldplay - Ghost Stories - All Your Friends...",
+    "Id": "a1552953-d9f6-4481-ae77-4597be122b37",
+    "Name": "All Your Friends",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - New Born...",
+    "Id": "9cb7a251-570d-4f57-bbfc-0833bf1c8feb",
+    "Name": "New Born",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Bliss...",
+    "Id": "07fab767-380b-4147-97a0-ad2bc924a777",
+    "Name": "Bliss",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Space Dementia...",
+    "Id": "7282eeea-74c0-4da3-89d8-550a462d5a00",
+    "Name": "Space Dementia",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Hyper Music...",
+    "Id": "8fb52484-b7b9-4933-9621-8e81f671941c",
+    "Name": "Hyper Music",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Plug In Baby...",
+    "Id": "75f903e0-8362-40aa-a4d3-06288bcb9849",
+    "Name": "Plug In Baby",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Citizen Erased...",
+    "Id": "7a33d24d-be28-494a-85ea-505257437503",
+    "Name": "Citizen Erased",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Micro Cuts...",
+    "Id": "422efc06-f772-411f-ba1a-914278307d5a",
+    "Name": "Micro Cuts",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Screenager...",
+    "Id": "efe11ceb-1a76-41ac-8d42-457202f64245",
+    "Name": "Screenager",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Darkshines...",
+    "Id": "e95436e9-9317-4af2-88db-1ea8940ef0fb",
+    "Name": "Darkshines",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Origin of Symmetry - Megalomania...",
+    "Id": "05305397-d9da-4de5-a8dd-bdc7c3978612",
+    "Name": "Megalomania",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Intro...",
+    "Id": "1dae5798-846a-4375-9379-c165563d87e2",
+    "Name": "Intro",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Apocalypse Please...",
+    "Id": "6a6d3793-d723-49ee-b480-3265a6334b26",
+    "Name": "Apocalypse Please",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Time Is Running Out...",
+    "Id": "c29da98f-139c-4437-945b-fb392be49e86",
+    "Name": "Time Is Running Out",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Sing for Absolution...",
+    "Id": "13c1678d-4721-4bb1-9948-55b65732a08c",
+    "Name": "Sing for Absolution",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Stockholm Syndrome...",
+    "Id": "b3f9152d-ab0d-4c11-bfda-695429c59df6",
+    "Name": "Stockholm Syndrome",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Falling Away with You...",
+    "Id": "0b100fb4-7ebe-4231-a51c-53b5e9224598",
+    "Name": "Falling Away with You",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Interlude...",
+    "Id": "fb12573f-2d1e-4b72-a487-4145863369b4",
+    "Name": "Interlude",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Hysteria...",
+    "Id": "a58c3e49-1ce6-47d1-a2a3-d47cb5382726",
+    "Name": "Hysteria",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Blackout...",
+    "Id": "1f3c3055-5e92-4d07-a665-2f1764bfd89e",
+    "Name": "Blackout",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Absolution - Butterflies and Hurricanes...",
+    "Id": "dd4d15cc-a359-4f12-89a2-8373b41660f8",
+    "Name": "Butterflies and Hurricanes",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Take a Bow...",
+    "Id": "eacbf6ff-54f2-4765-b749-3d811fa40afe",
+    "Name": "Take a Bow",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Starlight...",
+    "Id": "a75ab502-df5c-450e-8c23-997e738b9e1f",
+    "Name": "Starlight",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Supermassive Black Hole...",
+    "Id": "32533620-5897-49ce-a8a7-9e59a5c8e430",
+    "Name": "Supermassive Black Hole",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Map of the Problematique...",
+    "Id": "19b55ade-f03d-4b1b-b008-0681d0dfa69d",
+    "Name": "Map of the Problematique",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Soldier's Poem...",
+    "Id": "3025ad21-bfdf-466d-b5a5-533047e032bd",
+    "Name": "Soldier's Poem",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Invincible...",
+    "Id": "306d8080-593f-466b-942c-b30ac2c398ce",
+    "Name": "Invincible",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Assassin...",
+    "Id": "567b7cd3-b99a-4923-baca-d39d963d2998",
+    "Name": "Assassin",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Exo-Politics...",
+    "Id": "1cc3b70b-f5f5-4f32-831b-f35d0c286e38",
+    "Name": "Exo-Politics",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - City of Delusion...",
+    "Id": "e43c6435-bb8b-4bd3-bd92-b197992a9891",
+    "Name": "City of Delusion",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Black Holes and Revelations - Knights of Cydonia...",
+    "Id": "ef426311-d72c-4235-b395-09887960c82b",
+    "Name": "Knights of Cydonia",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - Uprising...",
+    "Id": "7ab4f728-914b-4486-9353-ec4b64368497",
+    "Name": "Uprising",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - Resistance...",
+    "Id": "22dde660-f238-438a-a0d1-91e00c57a42d",
+    "Name": "Resistance",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - Undisclosed Desires...",
+    "Id": "59d3b4a0-2b7f-4ebc-9164-41cdf1295b86",
+    "Name": "Undisclosed Desires",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - United States of Eurasia...",
+    "Id": "234a8474-b900-4f91-8c4b-08e007207bff",
+    "Name": "United States of Eurasia",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - Guiding Light...",
+    "Id": "9c9dd88c-4e24-4be7-809e-e42dfe62186d",
+    "Name": "Guiding Light",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - Unnatural Selection...",
+    "Id": "8c9bc9d2-3b07-48ae-851e-262579b4855a",
+    "Name": "Unnatural Selection",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - MK Ultra...",
+    "Id": "e40f54de-465e-4200-bcfa-8f2e9f8ca505",
+    "Name": "MK Ultra",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - I Belong to You...",
+    "Id": "e9e28326-ab6a-4733-8162-675cf5184911",
+    "Name": "I Belong to You",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - Exogenesis: Symphony Part 1...",
+    "Id": "1aa23a53-d097-419e-afca-d6142470450c",
+    "Name": "Exogenesis: Symphony Part 1",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - The Resistance - Exogenesis: Symphony Part 2...",
+    "Id": "76ddecd9-494d-46ff-beb4-7db8ebb15498",
+    "Name": "Exogenesis: Symphony Part 2",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Dead Inside...",
+    "Id": "36c3657f-d365-42cf-a01e-bce0a0bf4797",
+    "Name": "Dead Inside",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Drill Sergeant...",
+    "Id": "03690915-7dc0-40ac-95ef-9cdd1713fdfd",
+    "Name": "Drill Sergeant",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Psycho...",
+    "Id": "cefd95f5-b480-4478-ab22-efc0b58735d0",
+    "Name": "Psycho",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Mercy...",
+    "Id": "6554abdb-9a92-4b24-b0d1-38ad20afe2e3",
+    "Name": "Mercy",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Reapers...",
+    "Id": "575d4866-01ff-46a7-bcd8-9a2af4eb2731",
+    "Name": "Reapers",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - The Handler...",
+    "Id": "84bcef02-b495-4351-a9ef-39828e2b4de3",
+    "Name": "The Handler",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - JFK...",
+    "Id": "a3d35624-f6d3-41b3-97ff-a6b632b4ad7b",
+    "Name": "JFK",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Rock"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Defector...",
+    "Id": "43f98b02-0dd2-48ab-ae12-b30381b463b7",
+    "Name": "Defector",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Revolt...",
+    "Id": "96077007-a29c-4de6-afc4-f3e749bf923e",
+    "Name": "Revolt",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumId": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Artists": [
+      "Muse"
+    ],
+    "Lyrics": "Lyrics for Muse - Drones - Aftermath...",
+    "Id": "5deb0d42-40ca-4ab8-9f73-75580485ddac",
+    "Name": "Aftermath",
+    "Icon": "song_default.png",
+    "Genres": [
+      "Alternative"
+    ]
+  }
+]

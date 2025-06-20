@@ -1,0 +1,347 @@
+[
+  {
+    "SongsIds": [
+      "5205322a-eec6-41b4-9063-c16a7d405352",
+      "399496ca-ffdb-469e-b4d2-b7f6a7029d7d",
+      "8eac4677-0c98-49f4-8b70-2f400f06a3e1",
+      "bc8940e6-8943-4e67-8473-cdf58bfb1508",
+      "694b5599-f9e1-4679-b416-663798c3271b",
+      "fabff328-95ec-4afb-8372-c121caeb1c6d",
+      "5f2cb79b-b834-459f-b50f-29c4a4b1575d",
+      "748663d2-7c56-419d-ab4a-ad6526b20f9a",
+      "70b4288e-bb51-46b0-bccd-8dd2c51b11d9",
+      "5b183121-c5ca-41cd-afb2-711f03157345"
+    ],
+    "BandId": "e0f778ce-1bf5-4903-a187-97b02ab595aa",
+    "Id": "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+    "Name": "OK Computer",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Alternative",
+      "Rock",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "878fa04c-434f-4e1a-b858-28b00581e6b2",
+      "3b1a07f0-2609-41af-80fc-c7efbecb41ee",
+      "3977c84d-a2fa-4c8c-9107-1e195898ea84",
+      "57f4fa22-1f02-4332-ad1c-fc0d680629a9",
+      "3316783c-21e7-4da7-971a-7d6518daf666",
+      "7e2584bb-f17f-44e9-9641-ce1afdf4bc7d",
+      "73b86e09-5bf9-4824-9b7e-46199dd3a2dc",
+      "fe2db40b-133a-456d-a768-ca76b3e8864c",
+      "2318282d-7a08-4f86-8ce3-df61fcb1f026",
+      "4b9e736f-4588-4343-b7e0-4e37ab57caef"
+    ],
+    "BandId": "e0f778ce-1bf5-4903-a187-97b02ab595aa",
+    "Id": "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+    "Name": "Kid A",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Alternative",
+      "Rock",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "86b25152-3627-4903-ad84-76914285d8c7",
+      "9939a2dd-8c47-457b-8608-719e207779fc",
+      "4ce424dc-9b6b-43c2-8de1-a922ada6b83a",
+      "740d32fb-9276-4fae-8b5c-9220c4d666f0",
+      "bf3beab2-2620-4a41-afb9-ecfb2864ac67",
+      "6638db13-618e-4d6e-9d60-3ef103c8dbdc",
+      "cc7cbad8-cc51-4327-bff8-556cd5758a45",
+      "6b40cda3-4a3d-4935-a6fe-a26f64769a7a",
+      "77e39be2-11b1-442e-9c83-0eb8b1575866",
+      "4d70f511-2865-4270-9590-c12f0ab8f9d7"
+    ],
+    "BandId": "e0f778ce-1bf5-4903-a187-97b02ab595aa",
+    "Id": "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+    "Name": "In Rainbows",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Alternative",
+      "Rock",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "a7e10959-2540-45f7-a392-edd125046054",
+      "8151d7c9-ebb3-485a-a357-e98920d4ef55",
+      "3b3acc6b-86f6-47db-9d24-05fba1d3110f",
+      "e1937ed2-1e3b-4982-a2b5-e2b95e04568c",
+      "27306884-9580-4b69-a39e-c86b15bc0d2a",
+      "f40cf418-4b1e-437f-a009-3c4a2e984cbc",
+      "2cf3c2d6-96aa-4906-adc2-a9e58bc001cc",
+      "ccb424ee-6bc3-4eff-b722-589decdf4a6c",
+      "cb05d239-a571-418f-a2d3-00c90564f2b6",
+      "9ce5140b-accd-4428-90d2-aa21c2578a98"
+    ],
+    "BandId": "e0f778ce-1bf5-4903-a187-97b02ab595aa",
+    "Id": "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+    "Name": "Amnesiac",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Alternative",
+      "Rock",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "4abfea36-554b-48d0-86a7-48d3d1e35511",
+      "b559c4ea-3bfd-4151-b0a1-06e1c4d36090",
+      "2bbd373f-f909-4093-8f77-a0737f534fd3",
+      "235df742-dca3-43c3-990b-a170115e9c27",
+      "7e47d17e-4426-4873-b5af-6ba0904365e9",
+      "a3063b3a-5ff2-450d-ae05-73a8cc738972",
+      "d715b11e-ef80-4761-a623-95a6f9997aa9",
+      "93dc45af-b796-411e-a62a-ad79a5a6b95c",
+      "9f1def18-df49-4270-ba8e-314d5e6901d1",
+      "532eae33-6fe4-4b71-a900-e0bc2b7d4fe5"
+    ],
+    "BandId": "e0f778ce-1bf5-4903-a187-97b02ab595aa",
+    "Id": "5a878eff-9eb2-4926-a7ff-a2c5f26340e7",
+    "Name": "A Moon Shaped Pool",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Alternative",
+      "Rock",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "e9d9a7cd-a552-4a4b-aef8-bc5073531a86",
+      "52d4bca6-61cb-4fc7-b221-00ca2d384816",
+      "9d0ac09c-097e-42db-a627-2c0ae75961fa",
+      "85cc7a6d-e6dd-4590-bc24-1d1a2dabf521",
+      "065fbd93-ff52-4b1f-9bde-4f668f763aff",
+      "866d7767-0e5e-4699-8db5-373485d59c80",
+      "9676fe21-2742-40c5-b17e-57b30a3a094d",
+      "df8f848e-0b77-4b8a-873f-ea2aea3ed02c",
+      "89c94981-9009-46e1-b318-40838a96990f",
+      "8ef01e14-8808-4348-9ee2-4e2acfd9b17f"
+    ],
+    "BandId": "1f99565f-54f6-46bb-9a12-4feacfffc0ef",
+    "Id": "02a063a6-aa67-4601-bf99-898d6e74b72e",
+    "Name": "Parachutes",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ]
+  },
+  {
+    "SongsIds": [
+      "cc2d5b19-c323-410e-81dd-ce311f3da25c",
+      "ad9f9232-3ee9-4c56-b176-47ee7e4ca23e",
+      "ad26dbd6-9979-47c1-b9ce-c30a08a6173e",
+      "e72a0b8e-0ced-4136-9ab8-ce9b682534ec",
+      "b4281d01-37e5-48f2-9476-4d4a4118b13a",
+      "065cf885-b4e9-4bfc-9370-568b6a389f4f",
+      "83739e54-6472-4e1d-9d15-2ba06154b841",
+      "ab55ce21-f29a-4a5c-86d3-9734adf053f0",
+      "200e235a-2282-4786-8772-e3225dbbdb13",
+      "e447f59d-bea4-4a96-90d9-9ea9f87ee4ac"
+    ],
+    "BandId": "1f99565f-54f6-46bb-9a12-4feacfffc0ef",
+    "Id": "107d6335-8bae-4f4c-b080-186f3010aa73",
+    "Name": "A Rush of Blood to the Head",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ]
+  },
+  {
+    "SongsIds": [
+      "4f0660a7-6212-45fc-9380-d39a943ae512",
+      "93e805ee-21c3-4750-bcbf-69323a9514cb",
+      "56b27f9b-4845-4556-85e1-fbfb32bf29d6",
+      "9bde3f52-d0e8-47f5-988b-77f7e3c6ce15",
+      "b6e0c13f-e3c2-4e67-b934-503a21737de7",
+      "f2366ae9-428f-4e79-94ed-ba6fb8fa5d7f",
+      "3c16ed68-5bc2-4880-a689-5f178983ff38",
+      "261ba2f7-5c3e-4a61-9fa2-555f8823e6ff",
+      "cab7dfca-8e72-457d-a28b-028cb9b7649d",
+      "965b73ee-b232-4024-b9f1-9135b171548e"
+    ],
+    "BandId": "1f99565f-54f6-46bb-9a12-4feacfffc0ef",
+    "Id": "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+    "Name": "Viva la Vida",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ]
+  },
+  {
+    "SongsIds": [
+      "3706dd5e-9adf-4de0-bf64-d0e11f1a816c",
+      "a8ec5e17-b7b1-461d-a363-73ca4696352b",
+      "6a829c64-a362-481a-b2fc-b2ec6fa7efb9",
+      "2f17c056-0548-4567-b35c-47d5e64a6893",
+      "cfaa3e76-1bea-428c-8bc2-8285bfa86714",
+      "6aabc1b0-0410-4070-b18d-0b5cc635dcc7",
+      "5e64795a-d8ae-4404-885b-69bba6340865",
+      "a53893aa-173d-489c-b110-4c5e46d18444",
+      "a1f16d99-1b38-4816-9218-d5e124adc414",
+      "42b75829-6caf-4c06-a6be-e90b3cb6cc5b"
+    ],
+    "BandId": "1f99565f-54f6-46bb-9a12-4feacfffc0ef",
+    "Id": "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+    "Name": "Mylo Xyloto",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ]
+  },
+  {
+    "SongsIds": [
+      "ab4e8ab7-dee5-423c-9473-39c172952d1f",
+      "96ebee98-8862-4ec5-b2c7-99d677ced12e",
+      "31295172-8a38-4646-97de-36e91ede74c6",
+      "88d20668-cf84-4837-a155-109e94a5a5bd",
+      "b06c4291-1aeb-4412-bfdf-bbb41cff9068",
+      "0a1c0c90-5609-445e-8c9f-5b4998424aed",
+      "39dacfb2-a9d0-4b6d-96c1-ac01bb1a6fd6",
+      "c556e203-8e58-4abe-8ed1-acd4ae7d3d37",
+      "523ec29d-c62c-45bf-a4c4-d62d55a13522",
+      "a1552953-d9f6-4481-ae77-4597be122b37"
+    ],
+    "BandId": "1f99565f-54f6-46bb-9a12-4feacfffc0ef",
+    "Id": "2ebd24f4-4ca3-4398-8d76-558bb659c3ce",
+    "Name": "Ghost Stories",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ]
+  },
+  {
+    "SongsIds": [
+      "9cb7a251-570d-4f57-bbfc-0833bf1c8feb",
+      "07fab767-380b-4147-97a0-ad2bc924a777",
+      "7282eeea-74c0-4da3-89d8-550a462d5a00",
+      "8fb52484-b7b9-4933-9621-8e81f671941c",
+      "75f903e0-8362-40aa-a4d3-06288bcb9849",
+      "7a33d24d-be28-494a-85ea-505257437503",
+      "422efc06-f772-411f-ba1a-914278307d5a",
+      "efe11ceb-1a76-41ac-8d42-457202f64245",
+      "e95436e9-9317-4af2-88db-1ea8940ef0fb",
+      "05305397-d9da-4de5-a8dd-bdc7c3978612"
+    ],
+    "BandId": "e24cc620-d896-42a7-96ec-4a3defa4f17e",
+    "Id": "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+    "Name": "Origin of Symmetry",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Rock",
+      "Alternative",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "1dae5798-846a-4375-9379-c165563d87e2",
+      "6a6d3793-d723-49ee-b480-3265a6334b26",
+      "c29da98f-139c-4437-945b-fb392be49e86",
+      "13c1678d-4721-4bb1-9948-55b65732a08c",
+      "b3f9152d-ab0d-4c11-bfda-695429c59df6",
+      "0b100fb4-7ebe-4231-a51c-53b5e9224598",
+      "fb12573f-2d1e-4b72-a487-4145863369b4",
+      "a58c3e49-1ce6-47d1-a2a3-d47cb5382726",
+      "1f3c3055-5e92-4d07-a665-2f1764bfd89e",
+      "dd4d15cc-a359-4f12-89a2-8373b41660f8"
+    ],
+    "BandId": "e24cc620-d896-42a7-96ec-4a3defa4f17e",
+    "Id": "134db2e6-12b7-449f-9c7a-34d43f76194d",
+    "Name": "Absolution",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Rock",
+      "Alternative",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "eacbf6ff-54f2-4765-b749-3d811fa40afe",
+      "a75ab502-df5c-450e-8c23-997e738b9e1f",
+      "32533620-5897-49ce-a8a7-9e59a5c8e430",
+      "19b55ade-f03d-4b1b-b008-0681d0dfa69d",
+      "3025ad21-bfdf-466d-b5a5-533047e032bd",
+      "306d8080-593f-466b-942c-b30ac2c398ce",
+      "567b7cd3-b99a-4923-baca-d39d963d2998",
+      "1cc3b70b-f5f5-4f32-831b-f35d0c286e38",
+      "e43c6435-bb8b-4bd3-bd92-b197992a9891",
+      "ef426311-d72c-4235-b395-09887960c82b"
+    ],
+    "BandId": "e24cc620-d896-42a7-96ec-4a3defa4f17e",
+    "Id": "56898656-b650-4164-9cb2-9a853274ddf8",
+    "Name": "Black Holes and Revelations",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Rock",
+      "Alternative",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "7ab4f728-914b-4486-9353-ec4b64368497",
+      "22dde660-f238-438a-a0d1-91e00c57a42d",
+      "59d3b4a0-2b7f-4ebc-9164-41cdf1295b86",
+      "234a8474-b900-4f91-8c4b-08e007207bff",
+      "9c9dd88c-4e24-4be7-809e-e42dfe62186d",
+      "8c9bc9d2-3b07-48ae-851e-262579b4855a",
+      "e40f54de-465e-4200-bcfa-8f2e9f8ca505",
+      "e9e28326-ab6a-4733-8162-675cf5184911",
+      "1aa23a53-d097-419e-afca-d6142470450c",
+      "76ddecd9-494d-46ff-beb4-7db8ebb15498"
+    ],
+    "BandId": "e24cc620-d896-42a7-96ec-4a3defa4f17e",
+    "Id": "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+    "Name": "The Resistance",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Rock",
+      "Alternative",
+      "Electronic"
+    ]
+  },
+  {
+    "SongsIds": [
+      "36c3657f-d365-42cf-a01e-bce0a0bf4797",
+      "03690915-7dc0-40ac-95ef-9cdd1713fdfd",
+      "cefd95f5-b480-4478-ab22-efc0b58735d0",
+      "6554abdb-9a92-4b24-b0d1-38ad20afe2e3",
+      "575d4866-01ff-46a7-bcd8-9a2af4eb2731",
+      "84bcef02-b495-4351-a9ef-39828e2b4de3",
+      "a3d35624-f6d3-41b3-97ff-a6b632b4ad7b",
+      "43f98b02-0dd2-48ab-ae12-b30381b463b7",
+      "96077007-a29c-4de6-afc4-f3e749bf923e",
+      "5deb0d42-40ca-4ab8-9f73-75580485ddac"
+    ],
+    "BandId": "e24cc620-d896-42a7-96ec-4a3defa4f17e",
+    "Id": "1b155006-d0ff-49e3-8121-57f848b45e22",
+    "Name": "Drones",
+    "Icon": "album_default.png",
+    "Genres": [
+      "Rock",
+      "Alternative",
+      "Electronic"
+    ]
+  }
+]

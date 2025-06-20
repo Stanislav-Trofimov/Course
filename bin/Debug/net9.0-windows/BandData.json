@@ -1,0 +1,53 @@
+[
+  {
+    "AlbumsIds": [
+      "a648bf7e-4c8d-454e-813d-fc6942d0dbab",
+      "4e243954-2bbc-4b45-9c45-636edfa6bd7f",
+      "8d85524e-e1d3-44d5-a93c-b5a5bb2ede71",
+      "4a43d742-fe1f-4e20-b929-b2003d58c3bd",
+      "5a878eff-9eb2-4926-a7ff-a2c5f26340e7"
+    ],
+    "Id": "e0f778ce-1bf5-4903-a187-97b02ab595aa",
+    "Name": "Radiohead",
+    "Icon": "band_default.png",
+    "Genres": [
+      "Alternative",
+      "Rock",
+      "Electronic"
+    ]
+  },
+  {
+    "AlbumsIds": [
+      "02a063a6-aa67-4601-bf99-898d6e74b72e",
+      "107d6335-8bae-4f4c-b080-186f3010aa73",
+      "185cf826-72fd-4339-8708-7ac66f3a0e7e",
+      "5f2ecb7d-e01d-4449-83e3-bb2717b99d4e",
+      "2ebd24f4-4ca3-4398-8d76-558bb659c3ce"
+    ],
+    "Id": "1f99565f-54f6-46bb-9a12-4feacfffc0ef",
+    "Name": "Coldplay",
+    "Icon": "band_default.png",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ]
+  },
+  {
+    "AlbumsIds": [
+      "46e33809-7902-4f39-96a3-d5ec00f02bc4",
+      "134db2e6-12b7-449f-9c7a-34d43f76194d",
+      "56898656-b650-4164-9cb2-9a853274ddf8",
+      "8c3cc078-1f55-4c5d-b7db-f43981cd9932",
+      "1b155006-d0ff-49e3-8121-57f848b45e22"
+    ],
+    "Id": "e24cc620-d896-42a7-96ec-4a3defa4f17e",
+    "Name": "Muse",
+    "Icon": "band_default.png",
+    "Genres": [
+      "Rock",
+      "Alternative",
+      "Electronic"
+    ]
+  }
+]
